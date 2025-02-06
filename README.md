@@ -1,8 +1,8 @@
 # curso_ebac_formulario
 
-## Formulário de Cadastro de Clientes
+## Formulário de Cadastro 
 
-Este é um projeto de um Formulário de Cadastro de Clientes, desenvolvido com HTML e JavaScript. 
+Este é um projeto de um Formulário de Cadastro, desenvolvido com HTML e JavaScript. 
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -10,9 +10,9 @@ Este é um projeto de um Formulário de Cadastro de Clientes, desenvolvido com H
 
 - ✅ JavaScript: Exibição de mensagem de confirmação após o cadastro
 
-## Funcionalidades
+## 🔧 Funcionalidades
 
-Cadastro de clientes com os seguintes campos:
+### 📌 Cadastro com os seguintes campos:
 
 - Nome
 
@@ -20,11 +20,9 @@ Cadastro de clientes com os seguintes campos:
 
 - Senha
 
-Validação de dados (exemplo: formato de e-mail, preenchimento obrigatório)
+### 🔍 Validação de dados (exemplo: formato de e-mail, preenchimento obrigatório)
 
-Exibição de mensagem de confirmação após o cadastro
-
-## Como Usar
+## 💻 Como Usar
 
 Clone este repositório:
 
