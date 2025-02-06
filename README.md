@@ -26,7 +26,7 @@ Este é um projeto de um Formulário de Cadastro, desenvolvido com HTML e JavaSc
 
 Clone este repositório:
 
-- git clone https://github.com/seu-usuario/seu-repositorio.git
+- git clone https://github.com/Jeferson7770/curso_ebac_formulario.git
 
 - Abra o arquivo index.html no navegador
 
